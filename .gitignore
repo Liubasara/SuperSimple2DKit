@@ -17,26 +17,27 @@ Library/metadata
 # Assembly-UnityScript-Editor.unityproj
 # Assembly-UnityScript-firstpass-vs.unityproj
 # Assembly-UnityScript-firstpass.unityproj
-# *.csproj
+*.csproj
 # ProjectSettings/UnityAdsSettings.asset
 # ProjectSettings/UnityAnalyticsManager.asset
 # ProjectSettings/ProjectVersion.txt
-# *.sln
+*.sln
 # SwitchIL2CPPStats
 # SwitchIL2CPPCache
 # 
-# .vs/
+.vs/
+obj/Debug
 # obj/Debug/Assembly-CSharp-firstpass.csproj.CoreCompileInputs.cache
 # obj/Debug/Assembly-CSharp-Editor.csproj.CoreCompileInputs.cache
 # .vscode/settings.json
 # .vscode/launch.json
 # obj/Debug/Assembly-CSharp.csproj.CoreCompileInputs.cache
 # obj/Debug/Assembly-CSharp-Editor-firstpass.csproj.CoreCompileInputs.cache
-# obj/Debug/Assembly-CSharp.csprojAssemblyReference.cache
+# obj/Debug/Assembly-CSharp.csproj.AssemblyReference.cache
 # Assets/data.sav
 # obj/Debug/DesignTimeResolveAssemblyReferencesInput.cache
 # obj/Debug/Assembly-CSharp-firstpass.csprojAssemblyReference.cache
-# obj/Debug/Assembly-CSharp-Editor.csprojAssemblyReference.cache
+# obj/Debug/Assembly-CSharp-Editor.csproj.AssemblyReference.cache
 # obj/Debug/Assembly-CSharp-Editor-firstpass.csprojAssemblyReference.cache
 # Assembly-CSharp.csproj.user
 # 
